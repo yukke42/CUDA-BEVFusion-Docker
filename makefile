@@ -1,4 +1,5 @@
 BEVFUSION_IMAGE:=lidar-ai-solution
+HOST_PROJECT_PATH:=$(PWD)/Lidar_AI_Solution
 CONTAINER_PROJECT_PATH:=/opt/Lidar_AI_Solution
 CONTAINER_TENSORRT_PATH:=/opt/TensorRT
 
